@@ -3,5 +3,7 @@ Redirect 301 /buy https://pancakeswap.finance/swap#/swap?inputCurrency=BNB&outpu
 Redirect 301 /sell https://pancakeswap.finance/swap#/swap?inputCurrency=0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd&outputCurrency=BNB
 Redirect 301 /poo https://poocoin.app/tokens/0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd
 Redirect 301 /graph https://charts.bogged.finance/?token=0x20F23bC6F28bd31f9869b9C7750fDEaFED7d22C
+Redirect 301 /twitter https://www.twitter.com/financemacoin
+Redirect 301 /instagram https://www.instagram.com/cryptomacoin
 
 Options -indexes
