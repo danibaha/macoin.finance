@@ -22,3 +22,7 @@ Se tiver duvidas ou se demorarmos demais para revisar e aprovar a mudança, nos 
 <h3>Wiki</h3>
 
 Faça colaborações também no wiki do Github, incluindo instruções e how-to e o lincaremos no website.
+
+<h3>Issues</h3>
+
+Crie um issue para cada atividade que voce julgar deva ser priorizada pela comunidade MaCoin.
