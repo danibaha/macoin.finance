@@ -2,13 +2,14 @@ Redirect 301 /contract https://bscscan.com/token/0x20f23bc6f28bd31f9869b9c7750fd
 Redirect 301 /buy https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd
 Redirect 301 /sell https://pancakeswap.finance/swap?inputCurrency=0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd&outputCurrency=BNB
 Redirect 301 /poo https://poocoin.app/tokens/0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd
-Redirect 301 /graph https://charts.bogged.finance/?token=0x20F23bC6F28bd31f9869b9C7750fDEaFED7d22C
+Redirect 301 /graph https://charts.bogged.finance/?token=0x20F23bC6F28bd31f9869b9C7750fDEaFED7d22Cd
 Redirect 301 /twitter https://www.twitter.com/financemacoin
 Redirect 301 /instagram https://www.instagram.com/cryptomacoin
 Redirect 301 /tutorial https://www.youtube.com/watch?v=SS7RH27on08
 Redirect 301 /holders https://bscscan.com/token/0x20f23bc6f28bd31f9869b9c7750fdeafed7d22cd#balances
-Redirect 301 /paper /assets/paper/MaCoin-GreenPaper-definitive-version.pdf
+Redirect 301 /greenpaper /assets/paper/MaCoin-GreenPaper-definitive-version.pdf
 Redirect 301 /telegram https://t.me/macoinoficial
 Redirect 301 /comunidade https://t.me/macoinbr
+Redirect 301 /whitepaper /greenpaper
 
 Options -indexes
